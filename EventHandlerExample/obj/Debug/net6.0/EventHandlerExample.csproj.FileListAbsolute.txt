@@ -1,0 +1,15 @@
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\bin\Debug\net6.0\EventHandlerExample.exe
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\bin\Debug\net6.0\EventHandlerExample.deps.json
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\bin\Debug\net6.0\EventHandlerExample.runtimeconfig.json
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\bin\Debug\net6.0\EventHandlerExample.dll
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\bin\Debug\net6.0\EventHandlerExample.pdb
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.AssemblyInfo.cs
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.dll
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\refint\EventHandlerExample.dll
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.pdb
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\EventHandlerExample.genruntimeconfig.cache
+C:\Users\122589\source\repos\EventHandlerExample\EventHandlerExample\obj\Debug\net6.0\ref\EventHandlerExample.dll
